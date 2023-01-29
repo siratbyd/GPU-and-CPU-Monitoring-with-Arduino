@@ -15,6 +15,10 @@ I used LCD Keypad Shield but also some more efficient LCD Screen could be use fo
 
 I have explained the places in the code that you can edit according to your needs, but to repeat, you can view data such as clock mhz, not just temperatures actually you can monitoring whole datas which are containing on openhardwaremonitor. Since I am using a 16x2 LCD screen, I did not want to take too much data and tire the Arduino UNO.
 
+Note that the baudrate and ports on the Arduino IDE and Python must be the same.
+
+After the first time, just plug-in your Ardunio to computer, open openhardwaremonitor and run your code.
+
 
 # !!!KEEP IN YOUR MIND OPENHARDWAREMONITOR SHOULD BE WORKING ON THE BACKGROUND!!!
 

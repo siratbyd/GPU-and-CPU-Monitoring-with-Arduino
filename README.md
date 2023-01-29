@@ -11,7 +11,7 @@
 I used LCD Keypad Shield but also some more efficient LCD Screen could be use for more data monitoring.
 
 
-# How It Is Work?
+# How is it working?
 
 I have explained the places in the code that you can edit according to your needs, but to repeat, you can view data such as clock mhz, not just temperatures actually you can monitoring whole datas which are containing on openhardwaremonitor. Since I am using a 16x2 LCD screen, I did not want to take too much data and tire the Arduino UNO.
 

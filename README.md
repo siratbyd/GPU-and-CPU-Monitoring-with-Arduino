@@ -1,4 +1,4 @@
-# GPU-and-CPU-Monitroing-with-Ardunio
+# GPU-and-CPU-Monitoring-with-Ardunio
 
  Hello, in this project, I tried to make a project to monitor the parts of computer components with Arduino from with the help of ChatGPT, without any library knowledge.
 
